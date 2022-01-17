@@ -1,2 +1,2 @@
-# Multi-Scale_Neural_Network
-Code for "Multi-Scale Neural Network for EEG Representation Learning in BCI"
+## Deep Recurrent Model for Individualized Prediction of Alzheimer’s Disease Progression
+<p align="center"><img width="80%" src="files/msnn.png" /></p>
