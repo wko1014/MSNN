@@ -1,4 +1,4 @@
-## Deep Recurrent Model for Individualized Prediction of Alzheimer’s Disease Progression
+## Multi-Scale Neural Network for EEG Representation Learning in BCI
 <p align="center"><img width="50%" src="files/msnn.png" /></p>
 
 This repository provides a TensorFlow implementation of the following paper:
