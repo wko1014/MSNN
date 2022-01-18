@@ -1,7 +1,7 @@
 ## Deep Recurrent Model for Individualized Prediction of Alzheimer’s Disease Progression
 <p align="center"><img width="50%" src="files/msnn.png" /></p>
 
-This repository provides the official PyTorch implementation of the following paper:
+This repository provides a TensorFlow implementation of the following paper:
 > **Multi-Scale Neural Network for EEG Representation Learning in BCI**<br>
 > [Wonjun Ko](https://scholar.google.com/citations?user=Fvzg1_sAAAAJ&hl=ko&oi=ao)<sup>1</sup>, [Eunjin Jeon](https://scholar.google.com/citations?user=U_hg5B0AAAAJ&hl=ko)<sup>1</sup>, Seungwoo Jeong<sup>2</sup> [Heung-Il Suk](https://scholar.google.co.kr/citations?user=dl_oZLwAAAAJ&hl=ko)<sup>1, 2</sup><br/>
 > (<sup>1</sup>Department of Brain and Cognitive Engineering, Korea University) <br/>
