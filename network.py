@@ -56,6 +56,7 @@ class MSNN(tf.keras.Model):
         x = self.activation(self.conv3t(x))
         f3 = self.activation(self.conv3s(x))
 
+        # multi-scale feature representation by exploiting intermediate features
         feature = tf.concat((f1, f2, f3), -1)
 
         return feature
