@@ -6,8 +6,8 @@ class MSNN(tf.keras.Model):
     tf.keras.backend.set_floatx("float32")
     def __init__(self):
         super(MSNN, self).__init__()
-        self.n_channels=20
-        self.f_freq = 100
+        self.n_channels = 20 # number of electrodes
+        self.f_freq = 100 # sampling frequency
 
         # Regularizer
         self.regularizer = tf.keras.regularizers.L1L2(l1=.001, l2=.01)
