@@ -1,8 +1,6 @@
 # Impoort APIs
 import tensorflow as tf, numpy as np
 
-tf.keras.backend.set_floatx("float64")
-
 class MSNN(tf.keras.Model):
     tf.keras.backend.set_floatx("float32")
     def __init__(self):
