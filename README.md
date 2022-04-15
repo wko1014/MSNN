@@ -28,6 +28,9 @@ To download SEED-VIG dataset
 To download CHB-MIT dataset
 * https://physionet.org/content/chbmit/1.0.0/
 
+To download CHB-MIT dataset
+* https://physionet.org/content/chbmit/1.0.0/
+
 ## Citation
 If you find this work useful for your research, please cite our [paper](https://ieeexplore.ieee.org/abstract/document/9403717):
 ```
