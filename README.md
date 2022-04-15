@@ -1,5 +1,5 @@
 ## Multi-Scale Neural Network for EEG Representation Learning in BCI
-<p align="center"><img width="50%" src="files/msnn.png" /></p>
+<p align="center"><img width="45%" src="files/msnn.png" /></p>
 
 This repository provides a TensorFlow implementation of the following paper:
 > **Multi-Scale Neural Network for EEG Representation Learning in BCI**<br>
